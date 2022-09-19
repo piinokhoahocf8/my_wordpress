@@ -107,7 +107,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wordpress\/wp-admi
 <script type="text/javascript" src="https://piinokhoahocf8.github.io/my_wordpress/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"f226d3b984"};
+var userProfileL10n = {"user_id":"0","nonce":"dc305b73eb"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
