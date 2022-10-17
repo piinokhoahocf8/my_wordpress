@@ -44,7 +44,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://piinokhoahocf8.github.io/my_wordpress/wp-login.php?action=lostpassword">Bạn quên mật khẩu?</a>
+								<a href="https://piinokhoahocf8.github.io/my_wordpress/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -107,7 +107,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wordpress\/wp-admi
 <script type="text/javascript" src="https://piinokhoahocf8.github.io/my_wordpress/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"dc305b73eb"};
+var userProfileL10n = {"user_id":"0","nonce":"103d99deea"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
