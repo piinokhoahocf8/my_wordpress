@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/wordpress/chuyen-muc/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://piinokhoahocf8.github.io/my_wordpress</link>
 	<description></description>
-	<lastBuildDate>Mon, 17 Oct 2022 02:35:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Oct 2022 03:09:20 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -278,26 +278,6 @@
 					
 					<wfw:commentRss>https://piinokhoahocf8.github.io/my_wordpress/shop-quan-ao-secondhand/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Chào tất cả mọi người!</title>
-		<link>https://piinokhoahocf8.github.io/my_wordpress/chao-moi-nguoi/</link>
-					<comments>https://piinokhoahocf8.github.io/my_wordpress/chao-moi-nguoi/#comments</comments>
-		
-		<dc:creator><![CDATA[FreePiiNo]]></dc:creator>
-		<pubDate>Mon, 12 Sep 2022 01:14:08 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://piinokhoahocf8.github.io/my_wordpress/?p=1</guid>
-
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
-										<content:encoded><![CDATA[
-<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://piinokhoahocf8.github.io/my_wordpress/chao-moi-nguoi/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
