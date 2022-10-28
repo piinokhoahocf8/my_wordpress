@@ -2,7 +2,7 @@
 <html lang="vi">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Đăng nhập &lsaquo; GTour &#8212; WordPress</title>
+	<title>Đăng nhập &lsaquo; HAAKEN &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://piinokhoahocf8.github.io/my_wordpress/wp-includes/css/dashicons.min.css?ver=6.0.3" type="text/css" media="all">
@@ -44,14 +44,14 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://piinokhoahocf8.github.io/my_wordpress/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
+				<a rel="nofollow" href="https://piinokhoahocf8.github.io/my_wordpress/wp-login.php?action=register">Đăng ký</a> | 				<a href="https://piinokhoahocf8.github.io/my_wordpress/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://piinokhoahocf8.github.io/my_wordpress/">&larr; Quay lại GTour</a>		</p>
+			<a href="https://piinokhoahocf8.github.io/my_wordpress/">&larr; Quay lại HAAKEN</a>		</p>
 			</div>
 				<div class="language-switcher">
 				<form id="language-switcher" action="" method="get">
@@ -83,7 +83,7 @@ var _zxcvbnSettings = {"src":"http:\/\/localhost:8000\/myproject\/wordpress\/wor
 <script type="text/javascript" src="https://piinokhoahocf8.github.io/my_wordpress/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3" id="wp-hooks-js"></script>
 <script type="text/javascript" src="https://piinokhoahocf8.github.io/my_wordpress/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94" id="wp-i18n-js"></script>
 <script type="text/javascript" id="wp-i18n-js-after">
-wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
+wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
 <script type="text/javascript" id="password-strength-meter-js-extra">
 /* <![CDATA[ */
@@ -107,7 +107,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wordpress\/wp-admi
 <script type="text/javascript" src="https://piinokhoahocf8.github.io/my_wordpress/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"38e72f9112"};
+var userProfileL10n = {"user_id":"0","nonce":"847c5e2922"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
