@@ -83,7 +83,7 @@ var _zxcvbnSettings = {"src":"http:\/\/localhost:8000\/myproject\/wordpress\/wor
 <script type="text/javascript" src="https://piinokhoahocf8.github.io/my_wordpress/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3" id="wp-hooks-js"></script>
 <script type="text/javascript" src="https://piinokhoahocf8.github.io/my_wordpress/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94" id="wp-i18n-js"></script>
 <script type="text/javascript" id="wp-i18n-js-after">
-wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
+wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
 <script type="text/javascript" id="password-strength-meter-js-extra">
 /* <![CDATA[ */
@@ -107,7 +107,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wordpress\/wp-admi
 <script type="text/javascript" src="https://piinokhoahocf8.github.io/my_wordpress/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"847c5e2922"};
+var userProfileL10n = {"user_id":"0","nonce":"67668027ad"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
